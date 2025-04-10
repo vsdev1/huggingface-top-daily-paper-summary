@@ -1,0 +1,5 @@
+arxiv==2.2.0
+huggingface_hub==0.26.0
+pypdf==5.4.0
+python-dotenv==1.1.0
+smolagents==1.6.0
